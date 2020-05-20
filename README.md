@@ -1,2 +1,2 @@
-# machine-learning-system-design
+# Machine Learning System Design
 Learn how to design machine learning systems. Prep for machine learning system design interview. 
